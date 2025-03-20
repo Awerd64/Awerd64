@@ -1,4 +1,3 @@
-#Adam  Reffad  Groupe 1
 from tkinter import *
 # rouge = A et vert = B
 
